@@ -43,6 +43,7 @@ import android.test.suitebuilder.TestSuiteBuilder;
  *   -e class com.example.android.apis.os.MorseCodeConverterTest#testCharacterS \
  *   com.example.android.apis.tests/android.test.InstrumentationTestRunner
  */
+//keqingyuan test
 public class AllTests extends TestSuite {
 
     public static Test suite() {
